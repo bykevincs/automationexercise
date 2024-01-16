@@ -15,4 +15,3 @@ Pasos para la ejecucion:<br>
 1-npm install cypress --save-dev (si no tiene el node_modules)<br>
 2-Para abrir la interface grafica: npx cypress open<br>
 3-Para ejecutar el feature por comando: npx cypress run --spec "cypress/integration/features/login.feature" --browser chrome<br>
->>>>>>> master
