@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bykevincs/automationexercise/",
+    "version": "1.0.0"
+  }
+}
