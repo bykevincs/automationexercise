@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # automationexercise
 Prueba tecnica QA - CYPRESS
 =======
